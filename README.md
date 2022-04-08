@@ -21,4 +21,5 @@ Parcial Practico de  INF-354
 
 
 En el documento Parcial1.ipynb se encuentran todas soluciones que se pueden realizar por python.
-
+Y en documento pdf weka.pdf se encuentran el preprocesamiento de el dataset y sus resultados.
+El dataset utilizados es uno dataset csv con el proposito de prediccion de un accidente cerebrovascular.
