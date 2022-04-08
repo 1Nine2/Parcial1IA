@@ -16,3 +16,6 @@ Parcial Practico de  INF-354
 
 5. En PYTHON grafique el arbol de decision del dataset seleccionado.
 
+
+En el documento Parcial1.ipynb se encuentran todas soluciones que se pueden realizar por python.
+
