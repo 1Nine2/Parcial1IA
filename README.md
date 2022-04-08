@@ -1,3 +1,6 @@
+**Nombre:Micaela Jhoselin Saenz Molina**
+**CI:8464832**
+
 # Parcial1IA
 Parcial Practico de  INF-354
 1. Seleccione dos dataset del area medica (datos tabulares). Realice lo siguiente:
